@@ -1,0 +1,6 @@
+body {
+    background-image: url("../src/components/Sections/herobg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

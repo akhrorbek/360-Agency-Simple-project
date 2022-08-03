@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Header from './components/Header';
+import Hero from './components/Sections/Hero';
 import "./main.scss";
 function App() {
 
@@ -7,8 +8,10 @@ function App() {
     <>
       <header>
         <Header/>
+        <Hero />
       </header>
-      <main></main>
+      <main>
+      </main>
       <footer>
       </footer>
     </>

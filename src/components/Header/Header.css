@@ -1,6 +1,6 @@
 .haeder {
-    background: #E5E5E5;
-    padding-bottom: 15px;
+    background-color:rgba(240, 248, 255, 0.322);
+    padding-bottom: 25px;
 }
 
 .header__wrapper {
@@ -31,5 +31,5 @@
     color: rgba(0, 0, 0, 0.7);
     font-size: 12px;
     font-weight: 600;
-    background: #E5E5E5;
+    background-color: inherit;
 }

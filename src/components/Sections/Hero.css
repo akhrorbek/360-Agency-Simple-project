@@ -1,0 +1,119 @@
+.hero__textWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* }
+.textWrapper__heading {
+    margin: 0;
+    padding-top: 72px;
+    margin-bottom: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 66px;
+    line-height: 76px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+
+}
+.textWrapper__text {
+    margin: 0;
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.6);
+    margin-bottom: 30px;
+}
+
+.textWrapper__btn {
+    background-image: url("../Sections/btnbg.svg");
+    background-repeat: no-repeat;
+    background-position:right 11px center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.8);
+    padding-left: 25px;
+    padding-right: 45px;
+}
+
+.hero__heroText{
+    background-image: url("./herpTextbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heroText__heading {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+.heroText__text {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+} */
+
+.textWrapper__heading {
+    margin: 0;
+    margin-top: 72px;
+    margin-bottom: 30px;
+    font-style: normal;
+    max-width: 809px;
+    font-weight: 600;
+    font-size: 66px;
+    line-height: 76px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
+
+}
+.heroText__heading {
+    padding: 0;
+    margin: 0;
+    max-width: 609px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+}
+
+.heroText__text {
+    padding: 0;
+    margin: 0;
+    max-width: 600px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+}
+.hero__heroText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 250px;
+    padding-bottom: 185px;
+    width: 100%;
+    background-image: url("./herpTextbg.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+
+.textWrapper__btn {
+    background-image: url("../Sections/btnbg.svg");
+    background-repeat: no-repeat;
+    background-position:right 11px center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.8);
+    padding-left: 25px;
+    padding-right: 45px;
+}

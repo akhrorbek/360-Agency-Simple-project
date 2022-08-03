@@ -2,9 +2,10 @@ import React from 'react';
 import "./Header.css";
 import Logo from '../../assets/Images/Logo.svg';
 
-const index = (props) => {
+const index = () => {
     return (
         <>
+
             <div className='haeder'>
                 <div className='header__wrapper container pt-3'>
                     <a className='header__logoLink' href="./index.html">
