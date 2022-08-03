@@ -9,7 +9,8 @@ function App() {
         <Header/>
       </header>
       <main></main>
-      <footer></footer>
+      <footer>
+      </footer>
     </>
   );
 };

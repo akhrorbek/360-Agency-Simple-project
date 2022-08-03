@@ -1,0 +1,35 @@
+.haeder {
+    background: #E5E5E5;
+    padding-bottom: 15px;
+}
+
+.header__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar__list {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.list__item+.list__item {
+    margin-left: 50px;
+}
+
+.item__link {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+    font-weight: 500;
+}
+
+.lang {
+    border: none;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 12px;
+    font-weight: 600;
+    background: #E5E5E5;
+}
